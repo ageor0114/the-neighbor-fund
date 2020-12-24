@@ -61,12 +61,6 @@ function App() {
           <DemoPage/>
         </div>
       </div>
-      
-
-
-      <div className="test">
-
-      </div>
     </div>
   );
 }
