@@ -1,0 +1,36 @@
+@import "./styles/buttons.scss";
+@import "./styles/components.scss";
+
+.App {
+  
+  background-color: #F9FAFC;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+
+  flex-direction: column;
+
+  color: #1F2D3D;
+
+  /*padding-top: 65px;*/
+  padding-top: 50px;
+}
+
+p {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+h1 {
+  font-size: 60px;
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+
+
+.test{
+  height: 10000px;
+}
