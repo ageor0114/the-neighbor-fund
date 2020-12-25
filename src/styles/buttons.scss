@@ -19,6 +19,10 @@ button {
         background-color: #d8e3f6;
         transition: 0.3s;
     }
+
+    &:focus{
+        outline: none;
+    }
 }
 
 .input-button{
